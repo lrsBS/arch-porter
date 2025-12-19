@@ -1,7 +1,6 @@
 7zip
 alacritty
 atuin
-balena-etcher
 base
 base-devel
 blueman
@@ -39,14 +38,12 @@ imagemagick
 intel-media-driver
 intel-ucode
 iwd
-joplin-appimage
 lazygit
 libfprint
 libpulse
 libva-intel-driver
 linux
 linux-firmware
-localsend-bin
 man-db
 nano
 nautilus
@@ -55,8 +52,6 @@ neovim
 nmap
 nm-connection-editor
 npm
-obsidian-bin
-open-fprintd
 openssh
 pacman-contrib
 pavucontrol
@@ -67,7 +62,6 @@ pipewire-jack
 pipewire-pulse
 polkit-kde-agent
 python-pip
-python-validity
 qt5-wayland
 qt6-wayland
 qutebrowser
@@ -75,10 +69,8 @@ resvg
 rofi
 rpi-imager
 sddm
-sddm-theme-sugar-candy-git
 slurp
 smartmontools
-smassh-bin
 snapper
 stow
 swaync
@@ -101,12 +93,10 @@ vulkan-intel
 vulkan-nouveau
 vulkan-radeon
 waybar
-webapp-manager
 wget
 wireless_tools
 wireplumber
 wireshark-qt
-woeusb
 wpa_supplicant
 xclip
 xdg-desktop-portal-hyprland
@@ -117,9 +107,7 @@ xf86-video-nouveau
 xorg-server
 xorg-xinit
 xsel
-yay
 yazi
 zoxide
 zsh
 zsh-completions
-zsh-theme-powerlevel10k-git
